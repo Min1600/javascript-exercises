@@ -3,6 +3,6 @@ const repeatString = function(word, times) {
     for (let i = 0; i < times; i++){
       hold += word
     };
-    return hold}
+    return hold};
 // Do not edit below this line
 module.exports = repeatString;
